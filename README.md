@@ -17,7 +17,7 @@
 		- Variables --> vienen bien sobre todo para colores
 		- @mixin
 		- Herencia
-		- -.
+		- ...
 
 - CSS: Float, flexbox | Wrapper display flex http://www.bennettfeely.com/flexplorer
 	- Uso de normalizadores: los navegadores tienen un estilo determinado y lo que hacen es estandarizar los estilos de partida
@@ -27,7 +27,6 @@
 
 	- Cambio de estado del background (SCSS):
 		
-	-	
 		```
 		<div class="box">Box</div>
 
@@ -47,7 +46,7 @@
 		  }
 		}
 		```
-	- 	
+	-	
 		```
 		.box {
 		  background: #2db34a;
@@ -66,7 +65,6 @@
 		  }
 		}
 		```
-	-
 	
 		https://codepen.io/shayhowe/pen/Fvjnf
 		https://codepen.io/shayhowe/pen/hIpFr
@@ -91,6 +89,7 @@
 		o modificar el css
 		
 - Accesibilidad.
+
 	-Niveles en tipografía
 	-Modos de alto contraste
 	-Tabulación	
